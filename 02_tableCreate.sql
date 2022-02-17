@@ -1,19 +1,19 @@
 USE SuperHeroesDb
 
 CREATE TABLE Superhero (
-	SuperheroID int PRIMARY KEY IDENTITY(1, 1),
-	Name nvarchar(50) null,
-	Alias nvarchar(50) null,
-	Origin nvarchar(50) null
+	ID int PRIMARY KEY IDENTITY(1, 1),
+	Name nvarchar(50),
+	Alias nvarchar(50),
+	Origin nvarchar(50)
 )
 
 CREATE TABLE Assistant (
-	AssistantID int PRIMARY KEY IDENTITY(1, 1),
-	Name nvarchar(50) null
+	ID int PRIMARY KEY IDENTITY(1, 1),
+	Name nvarchar(50)
 )
 
 CREATE TABLE Power (
-	PowerID int PRIMARY KEY IDENTITY(1, 1),
-	Name nvarchar(50) null,
-	Description nvarchar(50) null
+	ID int PRIMARY KEY IDENTITY(1, 1),
+	Name nvarchar(50),
+	Description nvarchar(50)
 )
