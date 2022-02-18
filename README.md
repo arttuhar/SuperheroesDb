@@ -54,10 +54,12 @@ Delete one assistant
 
 The database is implemented with following technologies:
 
+- SQL
 - SQL Server Management Studio
 - SQL Server
 
 ## Collaborators
 
 [Arttu Hartikainen (@arttuhar)](https://github.com/arttuhar)
+
 [Mikko Ryynänen (@mikkoryynanen)](https://github.com/mikkoryynanen)
