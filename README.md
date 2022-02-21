@@ -1,5 +1,7 @@
 # SuperheroesDb
 
+![GitHub repo size](https://img.shields.io/github/repo-size/arttuhar/SuperheroesDb)
+
 [Relationship Diagram](Relationship_diagram.pdf)
 
 ## Table of Contents
