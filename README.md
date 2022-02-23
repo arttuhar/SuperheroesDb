@@ -60,7 +60,7 @@ The database is implemented with following technologies:
 - SQL Server Management Studio
 - SQL Server
 
-## Collaborators
+## Contributors
 
 [Arttu Hartikainen (@arttuhar)](https://github.com/arttuhar)
 
